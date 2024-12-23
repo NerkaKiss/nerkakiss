@@ -1,5 +1,7 @@
 # [Your Name] - Quality Assurance Engineer
 
+![](https://komarev.com/ghpvc/?username=nerkakiss&style=flat-square)
+
 [![Profile Banner or Logo]](link-to-image)
 
 > "Ensuring quality is not just a job, it's a passion."
