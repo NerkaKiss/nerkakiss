@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nerkakiss&style=flat-square)
 
-<a href="https://nerkakiss.github.io/ target=”_blank”">
+<a href="https://nerkakiss.github.io/" target=”_blank”>
         <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen"/>
     </a>
 
