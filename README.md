@@ -40,3 +40,5 @@
 I'm always open to collaborating on exciting projects and learning from fellow QA professionals. Feel free to reach out!
 
 [![Your Email]](mailto:your-email-address)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerkakiss&hide=contribs,prs)
