@@ -17,6 +17,8 @@
 * **Tools:** [Jira] [TestRail] [Postman] [Other Tools]
 * **Cloud Platforms:** [AWS] [Azure] [Google Cloud]
 
+![Java Badge](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=openjdk)
+
 ## 🚀 Featured Projects
 
 * **[Project Name]:** [Brief description, highlighting your QA role and contributions]
