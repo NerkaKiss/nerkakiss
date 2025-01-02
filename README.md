@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen"/>
     </a>
 
-> "💡 "Discovering bugs before users do.""
+> 💡 "Discovering bugs before users do."
 
 ### Skills & Tools
 
