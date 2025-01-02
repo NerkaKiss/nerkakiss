@@ -1,44 +1,60 @@
-# [Your Name] - Quality Assurance Engineer
+# Hi there 👋, I'm Nerijus, QA Engineer!
+
 
 ![](https://komarev.com/ghpvc/?username=nerkakiss&style=flat-square)
 
-<a href="https://nerkakiss.github.io/" target=”_blank”>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nerijuskisieliauskas/)<a href="https://nerkakiss.github.io/" target=”_blank”>
         <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen"/>
     </a>
 
-[![Profile Banner or Logo]](link-to-image)
+> "💡 "Discovering bugs before users do.""
 
-> "Ensuring quality is not just a job, it's a passion."
+### Skills & Tools
 
-[![Badge: LinkedIn]](your-linkedin-profile)
-[![Badge: Twitter]](your-twitter-profile)
+* **Test Automation:**  
+  ![Selenium](https://img.shields.io/badge/Selenium-Testing-green?logo=selenium) ![TestNG](https://img.shields.io/badge/TestNG-Framework-orange)  ![JUnit](https://img.shields.io/badge/JUnit-Testing%20Framework-blue?logo=junit5)    ![POM Structure](https://img.shields.io/badge/POM-Structure-lightgrey)
 
-## ✨ Skills & Expertise
+* **Programming:**  
+  ![Python](https://img.shields.io/badge/Python-Language-blue?logo=python)    ![Java](https://img.shields.io/badge/Java-Programming-orange?logo=openjdk)
 
-* **Test Automation:**  [Selenium] [Cypress] [Appium] [Your Tool of Choice]
-* **Programming:** [JavaScript/TypeScript] [Python] [Java]
-* **Methodologies:** [Agile] [Scrum] [TDD/BDD]
-* **Tools:** [Jira] [TestRail] [Postman] [Other Tools]
-* **Cloud Platforms:** [AWS] [Azure] [Google Cloud]
+* **API Testing:**  
+  ![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?logo=postman)    ![Java REST API](https://img.shields.io/badge/Java%20REST%20API-Development-green)
 
-![Java Badge](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=openjdk)
+* **Methodologies:**  
+  ![Agile](https://img.shields.io/badge/Agile-Methodology-blue)    ![Scrum](https://img.shields.io/badge/Scrum-Framework-lightblue)
+
+* **Test Design:**  
+  ![Test Scenarios](https://img.shields.io/badge/Test%20Scenarios-Design-yellow)    ![Test Cases](https://img.shields.io/badge/Test%20Cases-Writing-orange)
+
+* **Tools:**  
+  ![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)  ![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?logo=postman)    ![GitHub](https://img.shields.io/badge/GitHub-Repository%20Hosting-black?logo=github)  
+  ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-Debugging-lightblue?logo=googlechrome) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-IDE-darkblue?logo=intellijidea) 
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Editor-blue?logo=visualstudiocode)  
+  ![Jira](https://img.shields.io/badge/Jira-Project%20Management-blue?logo=jira)
+
 
 ## 🚀 Featured Projects
 
-* **[Project Name]:** [Brief description, highlighting your QA role and contributions]
-  [![Screenshot of Project 1]](link-to-project-repo)
-* **[Project Name]:** [Brief description, highlighting your QA role and contributions]
-  [![Screenshot of Project 2]](link-to-project-repo)
+* Soon
 
-## 🌱 Currently Exploring
+## 📚 Currently Exploring
 
-* [New testing frameworks or tools you're learning]
-* [Industry trends you're following]
+### Learning 
+
+* **JavaScript**  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-Language-yellow?logo=javascript)
+
+* **Cypress**  
+  ![Cypress](https://img.shields.io/badge/Cypress-Test%20Automation-green?logo=cypress)
+
+* **Playwright**  
+  ![Playwright](https://img.shields.io/badge/Playwright-Test%20Automation-blue?logo=playwright)
+
 
 ## 📫 Let's Connect!
 
 I'm always open to collaborating on exciting projects and learning from fellow QA professionals. Feel free to reach out!
 
-[![Your Email]](mailto:your-email-address)
+[![Email](https://img.shields.io/badge/Email-nerkai%40gmail.com-blue?logo=gmail)](mailto:nerkai@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerkakiss&show_icons=true&theme=transparent)
