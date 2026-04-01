@@ -1,60 +1,84 @@
-# Hi there 👋, I'm Nerijus, QA Engineer!
-
+# Hi there 👋, I'm Nerijus --- QA Automation Engineer
 
 ![](https://komarev.com/ghpvc/?username=nerkakiss&style=flat-square)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nerijuskisieliauskas/)<a href="https://nerkakiss.github.io/" target=”_blank”>
-        <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen"/>
-    </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nerijuskisieliauskas/)
 
 > 💡 "Discovering bugs before users do."
 
-### Skills & Tools
+------------------------------------------------------------------------
 
-* **Test Automation:**  
-  ![Selenium](https://img.shields.io/badge/Selenium-Testing-green?logo=selenium) ![TestNG](https://img.shields.io/badge/TestNG-Framework-orange)  ![JUnit](https://img.shields.io/badge/JUnit-Testing%20Framework-blue?logo=junit5)    ![POM Structure](https://img.shields.io/badge/POM-Structure-lightgrey)
+# 🧰 Automation Stack
 
-* **Programming:**  
-  ![Python](https://img.shields.io/badge/Python-Language-blue?logo=python)    ![Java](https://img.shields.io/badge/Java-Programming-orange?logo=openjdk)
+### Test Automation
 
-* **API Testing:**  
-  ![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?logo=postman)    ![Java REST API](https://img.shields.io/badge/Java%20REST%20API-Development-green)
+![Playwright](https://img.shields.io/badge/Playwright-Automation-45ba4b?logo=playwright)
+![Selenium](https://img.shields.io/badge/Selenium-Testing-green?logo=selenium)
+![TestNG](https://img.shields.io/badge/TestNG-Framework-orange)
+![JUnit](https://img.shields.io/badge/JUnit-Testing%20Framework-blue?logo=junit5)
+![POM](https://img.shields.io/badge/Page%20Object%20Model-Architecture-lightgrey)
 
-* **Methodologies:**  
-  ![Agile](https://img.shields.io/badge/Agile-Methodology-blue)    ![Scrum](https://img.shields.io/badge/Scrum-Framework-lightblue)
+### Programming
 
-* **Test Design:**  
-  ![Test Scenarios](https://img.shields.io/badge/Test%20Scenarios-Design-yellow)    ![Test Cases](https://img.shields.io/badge/Test%20Cases-Writing-orange)
+![TypeScript](https://img.shields.io/badge/TypeScript-Language-3178C6?logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-yellow?logo=javascript)
+![Java](https://img.shields.io/badge/Java-Programming-orange?logo=openjdk)
+![Python](https://img.shields.io/badge/Python-Language-blue?logo=python)
 
-* **Tools:**  
-  ![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)  ![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?logo=postman)    ![GitHub](https://img.shields.io/badge/GitHub-Repository%20Hosting-black?logo=github)  
-  ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-Debugging-lightblue?logo=googlechrome) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-IDE-darkblue?logo=intellijidea) 
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Editor-blue?logo=visualstudiocode)  
-  ![Jira](https://img.shields.io/badge/Jira-Project%20Management-blue?logo=jira)
+### API Testing
 
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?logo=postman)
+![REST API](https://img.shields.io/badge/REST%20API-Testing-green)
 
-## 🚀 Featured Projects
+### Tools
 
-* Soon
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Repository%20Hosting-black?logo=github)
+![Jira](https://img.shields.io/badge/Jira-Issue%20Tracking-blue?logo=jira)
+![Chrome
+DevTools](https://img.shields.io/badge/Chrome%20DevTools-Debugging-lightblue?logo=googlechrome)
+![IntelliJ
+IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-IDE-darkblue?logo=intellijidea)
+![VS
+Code](https://img.shields.io/badge/Visual%20Studio%20Code-Editor-blue?logo=visualstudiocode)
 
-## 📚 Currently Exploring
+------------------------------------------------------------------------
 
-### Learning 
+# 🚀 Featured Automation Project
 
-* **JavaScript**  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-Language-yellow?logo=javascript)
+## 🛠 Playwright E2E + API Automation Framework
 
-* **Cypress**  
-  ![Cypress](https://img.shields.io/badge/Cypress-Test%20Automation-green?logo=cypress)
+End-to-end and API test automation for a real e-commerce website using
+**Playwright + TypeScript automation framework**.
 
-* **Playwright**  
-  ![Playwright](https://img.shields.io/badge/Playwright-Test%20Automation-blue?logo=playwright)
+Key features:
 
+• Page Object Model architecture\
+• Custom fixtures with PageManager pattern\
+• UI + API testing\
+• GraphQL cart validation\
+• CI/CD with GitHub Actions\
+• Allure reporting
 
-## 📫 Let's Connect!
+🔗 Repository\
+https://github.com/NerkaKiss/depo-playwright-ts
 
-I'm always open to collaborating on exciting projects and learning from fellow QA professionals. Feel free to reach out!
+------------------------------------------------------------------------
+
+## 📚 Continuous Learning
+
+I continuously improve my automation skills and explore new testing approaches, including:
+
+- Advanced Playwright automation
+- Test reliability and flaky test prevention
+- Scalable test architecture
+- CI/CD optimization for automated testing
+
+------------------------------------------------------------------------
+
+# 📫 Let's Connect!
+
+I'm always open to learning, collaborating, and improving automation
+practices.
 
 [![Email](https://img.shields.io/badge/Email-nerkai%40gmail.com-blue?logo=gmail)](mailto:nerkai@gmail.com)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerkakiss&show_icons=true&theme=transparent)
