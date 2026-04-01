@@ -13,7 +13,7 @@ QA Automation Engineer transitioning from sales management — bringing structur
 
 I focus on building reliable, maintainable E2E and API test frameworks using **Playwright + TypeScript** and **Selenium + Java**, targeting real-world applications with production-like complexity.
 
-Currently seeking opportunities in the Vilnius tech market.
+Currently seeking opportunities in the Lithuanian tech market.
 
 ---
 
