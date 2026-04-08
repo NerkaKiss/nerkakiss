@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Nerijus — QA Automation Engineer
-
 ![Profile views](https://komarev.com/ghpvc/?username=nerkakiss&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nerijuskisieliauskas/)
 
@@ -11,7 +10,7 @@
 
 QA Automation Engineer transitioning from sales management — bringing structured thinking, communication skills, and a drive for quality into test automation.
 
-I focus on building reliable, maintainable E2E and API test frameworks using **Playwright + TypeScript** and **Selenium + Java**, targeting real-world applications with production-like complexity.
+I focus on building reliable, maintainable E2E and API test frameworks using **Playwright + TypeScript** and **REST Assured + Java**, targeting real-world applications with production-like complexity.
 
 Currently seeking opportunities in the Lithuanian tech market.
 
@@ -33,9 +32,9 @@ Currently seeking opportunities in the Lithuanian tech market.
 ![Python](https://img.shields.io/badge/Python-Language-blue?logo=python)
 
 ### API Testing
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?logo=postman)
 ![REST Assured](https://img.shields.io/badge/REST%20Assured-Java%20API%20Testing-green)
 ![GraphQL](https://img.shields.io/badge/GraphQL-API-E10098?logo=graphql)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?logo=postman)
 
 ### CI/CD & Tools
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=githubactions)
@@ -48,7 +47,7 @@ Currently seeking opportunities in the Lithuanian tech market.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Projects
 
 ### 🛠 Playwright E2E + API Automation Framework
 
@@ -64,9 +63,20 @@ End-to-end and API test automation for a real Lithuanian e-commerce site using *
 
 ---
 
-## 📚 Learning
+### 🛠 REST Assured API Automation Framework
 
-- 🔄 Currently advancing: Playwright advanced patterns, CI/CD optimization, scalable test architecture
+API test automation framework for DummyJSON using **REST Assured + Java 21 + TestNG**.
+
+**Key features:**
+- Modular architecture with API layer, request/response DTOs, and reusable utilities
+- Auth, products, search, and cart APIs — positive & negative scenarios
+- End-to-end cart flow test (login → user → products → cart)
+- Soft assertions for comprehensive response validation
+- Dynamic data handling — no hardcoded test dependencies
+- CI/CD pipeline with GitHub Actions
+- Allure reporting
+
+[![GitHub](https://img.shields.io/badge/GitHub-qa--dummyjson--restassured-black?logo=github)](https://github.com/NerkaKiss/qa-dummyjson-restassured)
 
 ---
 
