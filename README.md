@@ -8,11 +8,17 @@
 
 ## 👤 About Me
 
-QA Automation Engineer transitioning from sales management — bringing structured thinking, communication skills, and a drive for quality into test automation.
+QA Automation Engineer with hands-on experience in building automated UI and API test frameworks.
 
-I focus on building reliable, maintainable E2E and API test frameworks using **Playwright + TypeScript** and **REST Assured + Java**, targeting real-world applications with production-like complexity.
+Skilled in developing UI automation using Playwright and TypeScript, and API testing using Java and RestAssured.
 
-Currently seeking opportunities in the Lithuanian tech market.
+Experienced in applying Page Object Model (POM), designing maintainable test architecture, and integrating CI/CD pipelines with GitHub Actions.
+
+Developed end-to-end automation solutions covering real-world e-commerce scenarios, including authentication, product flows, and checkout processes, as well as API validation and test data handling.
+
+Background in programming and IT support, with strong problem-solving and communication skills.
+
+#OpenToWork
 
 ---
 
