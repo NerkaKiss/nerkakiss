@@ -12,11 +12,18 @@
 
 QA Automation Engineer focused on building maintainable UI and API test automation frameworks.
 
-I work with **Playwright**, **TypeScript**, **Python**, **Pytest**, **Java**, **REST Assured**, and **TestNG**, covering real-world user journeys, API validation, test data handling, and CI/CD execution.
+I work with **Playwright**, **TypeScript**, **Python**, **Pytest**, **Java**, **TestNG**, **REST Assured**, and **Maven**, covering real-world user journeys, API validation, test data handling, reporting, and CI/CD execution.
 
-Experienced in applying **Page Object Model (POM)**, `PageManager` patterns, reusable fixtures, authenticated session handling, marker/tag-based test execution, and Allure reporting.
+My portfolio includes automation projects across multiple stacks:
 
-My portfolio projects cover production-like e-commerce and transport booking flows, including authentication, product search, cart and checkout flows, GraphQL/API validation, mobile UI checks, and responsible automation against live systems.
+- **Java + Playwright + TestNG** for shipment ordering flows
+- **Python + Playwright + Pytest** for train ticket booking flows
+- **TypeScript + Playwright** for e-commerce UI and GraphQL/API validation
+- **Java + REST Assured + TestNG** for API test automation
+
+I apply **Page Object Model**, `PageManager` patterns, reusable fixtures/base tests, authenticated session handling, marker/group-based test execution, externalized test data, Allure reporting, screenshots, traces, retries, and GitHub Actions CI/CD.
+
+My projects cover production-like and real live-system scenarios, including authentication, search, cart, checkout, shipment creation, booking flows, API validation, mobile UI checks, and responsible automation against third-party websites.
 
 Background in programming and IT support, with strong problem-solving, communication, and continuous learning skills.
 
@@ -51,6 +58,7 @@ Background in programming and IT support, with strong problem-solving, communica
 ### CI/CD & Tools
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=githubactions)
+![Maven](https://img.shields.io/badge/Maven-Build%20Tool-c71a36?logo=apachemaven)
 ![Allure](https://img.shields.io/badge/Allure-Reports-orange)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository%20Hosting-black?logo=github)
@@ -63,6 +71,31 @@ Background in programming and IT support, with strong problem-solving, communica
 ---
 
 ## 🚀 Projects
+
+### 🛠 DPD Shipping Flow - Java Playwright Automation Test Suite
+
+End-to-end test automation for [esiunta.dpd.lt](https://esiunta.dpd.lt), DPD Lithuania's shipment ordering platform, using **Java + Playwright + TestNG + Maven**.
+
+**Key features:**
+- Page Object Model architecture with `PageManager`
+- Separate base test setup for authenticated and unauthenticated scenarios
+- Valid login and JSON-driven negative login validation
+- Reusable authenticated Playwright storage state
+- Shipment option selection and shipment form validation
+- PUDO-to-PUDO shipment flow coverage until the summary/payment step
+- Smoke and regression test groups with TestNG
+- Externalized test data and environment configuration
+- One automatic retry for transient live-site issues
+- Failure diagnostics with screenshots and Playwright traces
+- Allure reporting through Maven
+- GitHub Actions CI/CD pipeline with E2E status badge
+- Responsible production testing strategy: small focused suite, sequential execution, no destructive actions, and no real payment submission
+
+**Current coverage:** 21 E2E tests
+
+[![GitHub](https://img.shields.io/badge/GitHub-java--playwright--dpd--shipping--flow-black?logo=github)](https://github.com/NerkaKiss/java-playwright-dpd-shipping-flow)
+
+---
 
 ### 🛠 LTG Link Playwright Python E2E Test Suite
 
