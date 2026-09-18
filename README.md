@@ -13,11 +13,11 @@
 
 QA Automation Engineer with previous experience in programming, IT support, and B2B sales. After several years in sales, I made a deliberate return to technology through software testing, combining hands-on QA training with independent automation projects to strengthen and demonstrate my technical skills.
 
-I independently design and build maintainable UI and API automation frameworks using **Playwright with Java, TypeScript, and Python**, as well as **REST Assured with Java**.
+I independently design and build maintainable **web, mobile, and API automation frameworks** using **Playwright with Java, TypeScript, and Python**, **Appium with Java**, and **REST Assured with Java**.
 
-My portfolio includes automated testing against live production platforms in logistics, e-commerce, and railway booking, along with public API automation. The projects use Page Object Model architecture, reusable fixtures and components, externalized test data, authenticated storage state, GitHub Actions CI/CD, Allure reporting, and failure diagnostics.
+My portfolio includes automated testing against live production platforms in e-commerce, logistics, railway booking, and Android mobile applications, along with public API automation. The projects use Page Object Model architecture, reusable components and fixtures, externalized test data, authenticated state handling, test isolation strategies, GitHub Actions CI/CD, Allure reporting, and detailed failure diagnostics.
 
-I use **OpenCode** and **Playwright MCP** to accelerate implementation, application exploration, and debugging while retaining ownership of framework architecture, test design, technical decisions, and final validation.
+I use **OpenCode**, **ChatGPT**, and **Playwright MCP** to accelerate implementation, application exploration, debugging, and CI troubleshooting while retaining ownership of framework architecture, test design, technical decisions, and final validation.
 
 My B2B sales background gives me a practical understanding of stakeholder needs, business risk, and customer impact — perspectives that influence how I prioritize what to test and why.
 
@@ -29,11 +29,19 @@ Currently open to QA Automation Engineer opportunities.
 
 ### Test Automation
 
+![Appium](https://img.shields.io/badge/Appium-Mobile%20Automation-662D91?logo=appium)
 ![Playwright](https://img.shields.io/badge/Playwright-Automation-45ba4b?logo=playwright)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green?logo=selenium)
 ![pytest](https://img.shields.io/badge/pytest-Test%20Framework-0A9EDC?logo=pytest)
 ![TestNG](https://img.shields.io/badge/TestNG-Test%20Framework-orange)
 ![POM](https://img.shields.io/badge/Page%20Object%20Model-Architecture-lightgrey)
+
+### Mobile & Android
+
+![Android](https://img.shields.io/badge/Android-Test%20Automation-3DDC84?logo=android)
+![Appium](https://img.shields.io/badge/Appium-UiAutomator2-662D91?logo=appium)
+![ADB](https://img.shields.io/badge/ADB-Android%20Debug%20Bridge-3DDC84?logo=android)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-Emulator-3DDC84?logo=androidstudio)
 
 ### Programming Languages
 
@@ -75,6 +83,37 @@ Used for application exploration, implementation support, debugging, refactoring
 ---
 
 ## 🚀 Projects
+
+### 📱 BARBORA Android Mobile Automation — Appium, Java
+
+End-to-end mobile test automation for the **BARBORA Android application** using **Java 21, Appium 3, UiAutomator2, TestNG, Maven, and GitHub Actions**.
+
+**Automated test suite:** 17 test invocations — 8 smoke and 9 regression.
+
+**Key features:**
+
+- Android mobile automation using Appium and UiAutomator2
+- Screen Object Model with reusable UI components
+- One fresh Appium session per test method for improved test isolation
+- Application state preserved with `noReset=true` while each test prepares its own required business state
+- Coverage for app launch, navigation, login, invalid credentials, search, product details, cart operations, and session persistence
+- JSON-driven negative login scenarios through TestNG `DataProvider`
+- Explicit logged-in and cart-state preparation for E2E cart flows
+- Reusable handling for startup banners and asynchronous promotional overlays
+- App restart testing with authentication and cart persistence validation
+- Failure diagnostics with screenshots, Android page source XML, screen recordings, Surefire reports, and Appium logs
+- TestNG configuration-failure diagnostics for failed setup methods
+- No automatic test retries, keeping real failures visible for investigation
+- GitHub Actions execution on an Android 15 / API 35 `google_atd` emulator
+- Automated split APK installation in CI
+- Smoke, regression, full, and scheduled nightly execution
+- Allure reporting with GitHub Pages deployment
+- Responsible testing against a live e-commerce application without real orders or payment submission
+- CI and emulator troubleshooting including Appium session, ADB, UiAutomator2, Android system dialog, and asynchronous UI synchronization issues
+
+[![GitHub](https://img.shields.io/badge/GitHub-barbora--mobile--automation-black?logo=github)](https://github.com/NerkaKiss/barbora-mobile-automation)
+
+---
 
 ### 🛠 DPD Shipment Automation Framework — Playwright, Java
 
@@ -197,6 +236,8 @@ API test automation framework for [DummyJSON](https://dummyjson.com/) using **RE
 ---
 
 ## 🎓 Training & Certifications
+
+- **ISTQB Certified Tester Foundation Level (CTFL)**
 
 - **Manual & Automation Software Testing — 160 hours**  
   Vilnius Coding School
