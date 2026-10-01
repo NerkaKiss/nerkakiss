@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Nerijus — QA Engineer
 
-![Profile views](https://komarev.com/ghpvc/?username=nerkakiss&style=flat-square)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nerkakiss.github.io-blue?logo=githubpages)](https://nerkakiss.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nerijuskisieliauskas/)
 [![GitHub](https://img.shields.io/badge/GitHub-NerkaKiss-black?logo=github)](https://github.com/NerkaKiss)
