@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nerijus — QA Automation Engineer
+# Hi there 👋, I'm Nerijus — QA Engineer
 
 ![Profile views](https://komarev.com/ghpvc/?username=nerkakiss&style=flat-square)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nerkakiss.github.io-blue?logo=githubpages)](https://nerkakiss.github.io/)
@@ -11,17 +11,30 @@
 
 ## 👤 About Me
 
-QA Automation Engineer with previous experience in programming, IT support, and B2B sales. After several years in sales, I made a deliberate return to technology through software testing, combining hands-on QA training with independent automation projects to strengthen and demonstrate my technical skills.
+**ISTQB CTFL-certified QA Engineer with previous professional experience in programming and IT support.**
 
-I independently design and build maintainable **web, mobile, and API automation frameworks** using **Playwright with Java, TypeScript, and Python**, **Appium with Java**, and **REST Assured with Java**.
+Earlier in my career, I worked with **Python, MySQL and server-side systems**, developing, debugging and testing functionality in live environments.
 
-My portfolio includes automated testing against live production platforms in e-commerce, logistics, railway booking, and Android mobile applications, along with public API automation. The projects use Page Object Model architecture, reusable components and fixtures, externalized test data, authenticated state handling, test isolation strategies, GitHub Actions CI/CD, Allure reporting, and detailed failure diagnostics.
+After several years in sales, I started transitioning back into IT in 2024 through software testing. Since then, I have focused on building practical QA skills through hands-on projects covering **manual testing, API testing, web and Android automation, CI/CD and failure analysis**.
 
-I use **OpenCode**, **ChatGPT**, and **Playwright MCP** to accelerate implementation, application exploration, debugging, and CI troubleshooting while retaining ownership of framework architecture, test design, technical decisions, and final validation.
+Today, my main focus is QA and test automation. I work with **Playwright, Appium, REST Assured, Postman, Java, Python and TypeScript**. I use AI-assisted tools in my QA workflow for application exploration, debugging, implementation support and code review, while reviewing and validating all changes myself.
 
-My B2B sales background gives me a practical understanding of stakeholder needs, business risk, and customer impact — perspectives that influence how I prioritize what to test and why.
+**I am looking for my first commercial QA opportunity and to continue developing my skills in software testing and automation.**
 
-Currently open to QA Automation Engineer opportunities.
+---
+
+## 💼 Professional Background
+
+### Programmer — UAB Digimedia | 2009–2012
+- Developed and maintained server-side software using **Python and MySQL**
+- Worked with event-driven functionality, server commands, timers, menus, permissions, and configuration files
+- Debugged problems, tested changes, and fixed issues in live server environments
+
+### IT Technician — UAB Comtech ir Co / UAB Servea | 2012–2015
+- Worked with computer hardware, operating systems, software installation, configuration, troubleshooting, and pre-delivery system testing
+
+### Sales Specialist — UAB Statybų renovacijos sprendimai / UAB BJARNUM | 2015–2026
+- Worked in sales before starting a transition back into IT through software testing in 2024
 
 ---
 
@@ -56,6 +69,8 @@ Currently open to QA Automation Engineer opportunities.
 ![GraphQL](https://img.shields.io/badge/GraphQL-API-E10098?logo=graphql)
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?logo=postman)
 ![JSON](https://img.shields.io/badge/JSON-Test%20Data-lightgrey?logo=json)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Queries-lightgrey)
 
 ### AI-Assisted QA & Development
 
@@ -270,7 +285,7 @@ API test automation framework for [DummyJSON](https://dummyjson.com/) using **RE
 
 ## 📫 Let's Connect
 
-Open to QA Automation opportunities, collaboration, and continuous improvement in software quality and test automation practices.
+Open to my first commercial QA opportunity in software testing and test automation.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nerkakiss.github.io-blue?logo=githubpages)](https://nerkakiss.github.io/)
 [![Email](https://img.shields.io/badge/Email-nerkai%40gmail.com-blue?logo=gmail)](mailto:nerkai@gmail.com)
